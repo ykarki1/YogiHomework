@@ -1,1 +1,7 @@
 /Random
+_pycache_
+.ipynb_checkpoints
+.DS_Store
+.gitignore
+api_keys.py
+WeatherPy/api_keys.py
